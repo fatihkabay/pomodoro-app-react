@@ -2,7 +2,13 @@ import './App.css';
 
 function App() {
   return (
-    <div className='container'></div>
+    <div className='container'>
+      <div className="header">
+        <nav className='title'>Pomodoro</nav>
+        
+        <hr />
+      </div>
+    </div>
   );
 }
 
